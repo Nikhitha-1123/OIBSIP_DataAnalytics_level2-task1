@@ -1,4 +1,4 @@
-# PROJECT5 : 🏡 Housing Price Prediction using Linear Regression
+# PROJECT : 🏡 Housing Price Prediction using Linear Regression
 
 > ✅ Level 2- Task 1
 
