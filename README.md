@@ -1,6 +1,5 @@
 # PROJECT : 🏡 Housing Price Prediction using Linear Regression
 
-> ✅ Level 2- Task 1
 
 This project demonstrates a complete machine learning pipeline to predict housing prices based on various features. It includes data cleaning, feature engineering, model training, evaluation, and visualization using Python and Scikit-Learn.
 
